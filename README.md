@@ -134,3 +134,11 @@ View your optimized travel itinerary
 ![image](https://github.com/user-attachments/assets/449562e3-703c-4425-8d60-fee13004b604)
 ![image](https://github.com/user-attachments/assets/228e3950-9cee-4c54-a721-cab303ef6024)
 
+
+## Credits
+
+College : *Jaypee Institute of Information Technology*
+
+Course : *B.Tech CSE*
+
+Year : *2025*
